@@ -1,16 +1,14 @@
-### Hi there 👋
+# Привет, я Василий 👋
 
-<!--
-**paaadj/paaadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- 👨‍🎓 Студент в Ярославском государственном университете, 4 курс.
+- 💻 Языки программирования: Python
+- 🛠️ Фреймворки: FastAPI, Django
+- 🚀 Технологии: Docker, Redis, Git, PostgreSQL, MySQL
 
-Here are some ideas to get you started:
+## Проекты
+### Wishlist
+Wishlist - это проект, в котором пользователи могут управлять своими списками желаний, могут резервировать подарки, ставить напоминания, а также задавать вопросы в анонимном чате. [Посмотреть проект](https://github.com/paaadj/wishlist)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Статистика GitHub
+[![Статистика GitHub пользователя](https://github-readme-stats.vercel.app/api?username=paaadj&show_icons=true&hide_border=true)](https://github.com/paaadj)
